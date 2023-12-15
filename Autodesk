@@ -1,0 +1,11 @@
+# NAME: Autodesk
+# AUTHOR: lyndon
+# DOMAIN:
+# DOMAIN-SUFFIX:
+# IP-CIDR:
+# PROCESS-NAME:
+# TOTAL:
+payload:
+  - DOMAIN-SUFFIX,autodesk.com
+  - DOMAIN,js-agent.newrelic.com
+  - DOMAIN,bam.nr-data.net
